@@ -2,9 +2,9 @@
 <br>
 <br>
 
-<strong>참여인원</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;4명</span><br>
+<strong>참여 인원</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;4명</span><br>
 <strong>개발 툴</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;Er-win, Figma, Eclipse</span><br>
-<strong>참여 언어</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;Oracle, Swing, JAVA</span><br>
+<strong>개발 언어</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;Oracle, Swing, JAVA</span><br>
 <br>
 <br>
 
