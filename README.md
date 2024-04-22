@@ -2,6 +2,12 @@
 <br>
 <br>
 
+<strong>참여인원</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;4명</span><br>
+<strong>개발 툴</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;Er-win, Figma, Eclipse</span><br>
+<strong>참여 언어</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;Oracle, Swing, JAVA</span><br>
+<br>
+<br>
+
 <h2>개발동기</h2>
 초고령 사회에 진입하는 현 사회적 상황에 맞춰 요양보호사에 대한 수요 및 요양 서비스 시장 역시 성장하고 있는 추세.<br>
 그와 달리 현재까지도 주먹구구식의 과거에 멈춰있는 요양 시스템에 대한 문제점을 해결하고 정보, 소통의 부재로 발생하는 환자와 요양보호사 사이의 매칭 갈등을 해결하기 위해 제안.
@@ -22,3 +28,6 @@
 <br>
 <br>
 <br>
+
+<h2>시연영상</h2>
+<a href='https://youtu.be/dV7NLJ6dpk4?si=wKXuFoRP6anhiGSk'>UWO 요양센터관리프로그램 시연영상</a>
